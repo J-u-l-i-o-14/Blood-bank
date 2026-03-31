@@ -1,4 +1,4 @@
-#  Système de Gestion de Banque de Sang (Projet DOUBLE)
+#  Système de Gestion de Banque de Sang 
 
 Bienvenue dans le projet **BLOODBANK**, une plateforme complète de gestion de banque de sang conçue pour faciliter le don, le stockage et la distribution de produits sanguins.
 
@@ -16,8 +16,8 @@ La plateforme gère plusieurs types d'utilisateurs avec des permissions spécifi
 | :--- | :--- |
 | **Administrateur** | Gestion totale du système, des utilisateurs, des centres et vision globale du stock. |
 | **Gestionnaire** | Responsable d'un centre de transfusion spécifique, gère le stock local, les alertes et les réservations. |
-| **Donneur** | Peut prendre rendez-vous pour des dons, consulter son historique et voir les campagnes en cours. |
-| **Patient / Client** | Peut rechercher du sang par région/type, effectuer des réservations et suivre ses commandes. |
+| **Donneur** | Peut prendre rendez-vous pour des dons, consulter son historique (réservation)et voir les campagnes en cours. |
+| **Patient / Client** | Peut rechercher de poche de sang par région/type, effectuer des réservations et suivre ses commandes. |
 
 ---
 
