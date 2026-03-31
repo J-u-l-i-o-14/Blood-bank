@@ -15,6 +15,7 @@ class Kernel extends ConsoleKernel
     protected $commands = [
         \App\Console\Commands\SyncBloodInventory::class,
         \App\Console\Commands\GenerateStockAlerts::class,
+        \App\Console\Commands\CleanupOrphanReservedBags::class,
     ];
 
     /**
@@ -32,4 +33,4 @@ class Kernel extends ConsoleKernel
         $schedule->command('blood:generate-alerts')
                  ->everyFifteenMinutes();
     }
-} 
+}
