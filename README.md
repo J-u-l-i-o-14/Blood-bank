@@ -2,7 +2,7 @@
 
 Bienvenue dans le projet **BLOODBANK**, une plateforme complète de gestion de banque de sang conçue pour faciliter le don, le stockage et la distribution de produits sanguins.
 
-## 📋 Présentation du Projet
+##  Présentation du Projet
 
 Ce système permet de mettre en relation les donneurs, les patients et les centres de transfusion sanguine. Il offre une gestion rigoureuse des stocks, un système de réservation moderne pour les patients et des outils de suivi pour les administrateurs et gestionnaires de centres.
 
@@ -96,7 +96,7 @@ La plateforme gère plusieurs types d'utilisateurs avec des permissions spécifi
 
 ---
 
-## 📈 État d'avancement (Sprints)
+##  État d'avancement (Sprints)
 
 - **Sprint 4** : Mise en place du téléchargement d'ordonnances et workflow de validation documentaire.
 - **Sprint 5** : Système d'alertes de stock critique, notifications en temps réel (cloche) et finalisation du processus de paiement.
