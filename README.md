@@ -1,4 +1,4 @@
-# 🩸 Système de Gestion de Banque de Sang (Projet DOUBLE)
+#  Système de Gestion de Banque de Sang (Projet DOUBLE)
 
 Bienvenue dans le projet **BLOODBANK**, une plateforme complète de gestion de banque de sang conçue pour faciliter le don, le stockage et la distribution de produits sanguins.
 
@@ -8,7 +8,7 @@ Ce système permet de mettre en relation les donneurs, les patients et les centr
 
 ---
 
-## 👥 Rôles et Utilisateurs
+## Rôles et Utilisateurs
 
 La plateforme gère plusieurs types d'utilisateurs avec des permissions spécifiques :
 
@@ -21,31 +21,31 @@ La plateforme gère plusieurs types d'utilisateurs avec des permissions spécifi
 
 ---
 
-## ✨ Fonctionnalités Principales
+##  Fonctionnalités Principales
 
-### 🏥 Gestion des Dons
+###  Gestion des Dons
 - **Prise de rendez-vous** : Système fluide pour planifier un don de sang.
 - **Campagnes de don** : Création et suivi de campagnes publiques pour attirer les donneurs.
 - **Historique de dons** : Suivi personnalisé pour chaque donneur.
 
-### 📦 Gestion du Stock (Inventaire)
+###  Gestion du Stock (Inventaire)
 - **Suivi par Centre** : Inventaire précis par centre de transfusion et par région.
 - **Poches de Sang** : Gestion individuelle des poches avec dates d'expiration.
 - **Alertes de Seuil** : Notifications automatiques lorsque le stock d'un groupe sanguin devient critique (bas).
 
-### 🛒 Système de Réservation et Commande
+###  Système de Réservation et Commande
 - **Recherche Avancée** : Trouver du sang par groupe et par région en temps réel.
 - **Panier de Réservation** : Possibilité de réserver plusieurs poches.
 - **Validation Médicale** : Importation et vérification des ordonnances/prescriptions.
 - **Paiement Flexible** : Système d'acompte (50%) et paiement du solde restant.
 
-### 🔔 Notifications et Dashboard
+###  Notifications et Dashboard
 - **Cloche de Notification** : Alertes en temps réel pour les nouvelles commandes et alertes de stock.
 - **Dashboards Personnalisés** : Statistiques et indicateurs clés selon le rôle de l'utilisateur.
 
 ---
 
-## 🚀 Installation et Configuration
+##  Installation et Configuration
 
 ### Prérequis
 - PHP 8.1+
